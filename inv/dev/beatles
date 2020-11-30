@@ -1,0 +1,8 @@
+; below is a "group"
+[linux_bunker_east]
+stuart ansible_host=10.10.1.5 ansible_user=stuart
+pete ansible_host=10.10.1.6 ansible_user=pete ansible_ssh_pass=alta3
+
+; below is a "group"
+[linux_bunker_west]
+jerry ansible_host=10.10.1.9 ansible_user=admin ansible_ssh_pass=qwerty
