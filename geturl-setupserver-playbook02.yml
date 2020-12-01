@@ -4,6 +4,10 @@
   gather_facts: no
   become: yes
 
+  vars:
+          nm: sammy
+          pw: larry
+
   tasks:
   - name: Install apache2 server and ensure pip is installed
     apt:
@@ -24,7 +28,7 @@
                         AuthType basic
                         AuthName "Secured Files area"
                         AuthUserFile /etc/apache2/.htpasswd
-                        Require user sammy
+                       Require user sammy
                       </Files>
                       order allow,deny
                       deny from all
@@ -53,8 +57,8 @@
   - name: set a password via htpasswd
     htpasswd:
             path: /etc/apache2/.htpasswd
-            name: sammy
-            password: larry
+            name: "{{ nm }}"
+            password: "{{ pw }}"
             owner: root
             group: root
 

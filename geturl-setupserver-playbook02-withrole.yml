@@ -1,0 +1,11 @@
+---
+- name: Setup apache2 server
+  hosts: fry
+  gather_facts: no
+  become: yes
+
+  vars:
+          pw: wallawallawashington
+
+  roles:
+          - rzfeeser.webservice

@@ -3,6 +3,13 @@
   hosts: localhost  # target ourselves
   connection: local # we do not want to SSH anywhere. Run these actions locally
 
+  vars_files:
+    - vars/url-creds.yml
+
+  #vars:
+  #  pw: larry
+  #  un: sammy
+
   tasks:
     # in this task we alert Ansible to expect a 401 response
     # the 'register' keyword saves the response sent back to the uri module
@@ -16,11 +23,14 @@
       debug:
               var: validateurl.date
 
+              #- name: lets read in some vars
+              #  include_vars: ~/ans/vars/url-creds.yml
+
     - name: Access the same URL with Basic Authentication and Download the file
       get_url:
         url: http://10.10.2.4/admin/secure.txt
-        url_password: larry
-        url_username: sammy
+        url_password: "{{ pw }}"
+        url_username: "{{ un }}"
         dest: ~/ansible-downloaded-the-secret-file.txt
 
     - name: Display the File contents
