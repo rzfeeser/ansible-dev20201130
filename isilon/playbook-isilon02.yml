@@ -1,0 +1,73 @@
+---
+- name: Isilon gather_facts
+  hosts: localhost
+  connection: local
+  gather_facts: no  # we are running in local host mode
+                    # we do not want facts about ourselves
+
+  collections:
+    - dellemc.isilon
+
+  vars_files:
+    - vars/creds.yml
+    - vars/storage.yml
+
+  tasks:
+    - name: Gather facts on isilon cluster
+      dellemc_isilon_gatherfacts:
+        onefs_host: "{{ onefs_host }}"
+        port_no: "{{ isilon_port }}"
+        verify_ssl: "{{ verify_ssl }}"
+        api_user: "{{ api_user }}"
+        api_password: "{{ api_password }}"
+        gather_subset:
+           - attributes
+         # - access_zones
+           - nodes
+         # - providers
+         # - users
+         # - groups
+      register: results
+
+    - name: display what was just collected
+      debug:
+        var: results
+        verbosity: 1  # you must add -v to the playbook run params
+
+    - name: Precondition check
+      fail:
+        msg: "Precondition not met. Wrong number of nodes in the array"
+      when: results.Attributes.Cluster_Version.nodes|length != 4
+
+    - name: Create filesystem with quota for some students
+      dellemc_isilon_filesystem:
+        onefs_host: "{{ onefs_host }}"
+        port_no: "{{ isilon_port }}"
+        verify_ssl: "{{ verify_ssl }}"
+        api_user: "{{ api_user }}"
+        api_password: "{{ api_password }}"
+        path: "{{ base_path }}/students/{{ item }}"
+        owner:
+                name: "root"
+                provider_type: "file"
+        access_control: "{{ access_control }}"
+        recursive: True
+        state: "{{ dragons }}"
+      loop: "{{ students }}"
+
+    - name: Create filesystem with quota for some teachers
+      dellemc_isilon_filesystem:
+        onefs_host: "{{ onefs_host }}"
+        port_no: "{{ isilon_port }}"
+        verify_ssl: "{{ verify_ssl }}"
+        api_user: "{{ api_user }}"
+        api_password: "{{ api_password }}"
+        path: "{{ base_path }}/teachers/{{ item }}"
+        owner:
+                name: "root"
+                provider_type: "file"
+        access_control: "{{ access_control }}"
+        recursive: True
+        state: "{{ dragons }}"
+      loop: "{{ teachers }}"
+

@@ -1,0 +1,15 @@
+---
+base_path: "/ifs/globaluni"
+access_control: "0755"
+#access_zone: "System"
+students:
+        - peterparker
+        - lukecage
+        - scottlange
+        - wandamaximoff
+teachers:
+        - tonystark
+        - steverogers
+        - thorodinson
+        - brucebanner
+dragons: present

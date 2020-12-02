@@ -1,0 +1,502 @@
+2020-12-02 06:48:59,592 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 06:49:00,026 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 06:49:00,113 dellemc_isilon_gatherfacts.py INFO : Got Access zones from Isilon cluster 192.168.3.11
+2020-12-02 06:49:00,450 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 06:49:35,337 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 06:49:35,798 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 06:50:57,681 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 06:50:57,758 dellemc_isilon_gatherfacts.py INFO : Got Access zones from Isilon cluster 192.168.3.11
+2020-12-02 06:52:09,215 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 06:52:09,603 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 06:55:58,431 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 06:55:58,811 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 06:57:40,151 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 06:57:40,573 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 06:57:40,957 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 07:00:14,308 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 07:00:14,743 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 07:00:15,126 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 07:01:13,315 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 07:01:13,743 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 07:01:14,123 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 07:01:52,955 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 07:01:53,372 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 07:01:53,772 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 07:09:43,119 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 07:09:43,562 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 07:09:44,001 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 07:12:55,109 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 07:12:55,518 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 07:12:55,908 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 08:40:24,630 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:40:25,074 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 08:40:25,444 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 08:40:26,773 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:40:26,822 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/peterparker status is 404
+2020-12-02 08:40:26,858 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/peterparker
+2020-12-02 08:40:26,858 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:40:26,934 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/peterparker
+2020-12-02 08:40:26,986 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:40:27,759 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:40:27,797 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/lukecage status is 404
+2020-12-02 08:40:27,833 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/lukecage
+2020-12-02 08:40:27,834 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:40:27,873 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/lukecage
+2020-12-02 08:40:27,903 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:40:28,601 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:40:28,638 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/scottlange status is 404
+2020-12-02 08:40:28,673 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/scottlange
+2020-12-02 08:40:28,674 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:40:28,714 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/scottlange
+2020-12-02 08:40:28,745 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:40:29,470 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:40:29,507 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/wandamaximoff status is 404
+2020-12-02 08:40:29,543 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/wandamaximoff
+2020-12-02 08:40:29,543 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:40:29,586 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/wandamaximoff
+2020-12-02 08:40:29,610 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:33,970 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:34,380 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 08:42:34,760 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 08:42:36,133 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:36,206 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:36,214 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:36,214 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:36,214 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:36,214 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:36,278 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:36,278 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:37,017 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:37,090 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:37,094 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:37,094 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:37,094 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:37,094 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:37,158 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:37,158 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:37,925 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:38,002 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:38,006 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:38,006 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:38,006 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:38,006 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:38,074 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:38,074 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:38,830 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:38,906 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:38,910 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:38,910 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:38,910 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:38,910 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:38,970 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:38,970 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:39,714 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:39,751 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/tonystark status is 404
+2020-12-02 08:42:39,786 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/tonystark
+2020-12-02 08:42:39,786 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:42:39,826 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/tonystark
+2020-12-02 08:42:39,851 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:40,591 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:40,627 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/steverogers status is 404
+2020-12-02 08:42:40,660 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/steverogers
+2020-12-02 08:42:40,660 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:42:40,703 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/steverogers
+2020-12-02 08:42:40,727 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:41,506 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:41,543 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/thorodinson status is 404
+2020-12-02 08:42:41,577 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/thorodinson
+2020-12-02 08:42:41,577 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:42:41,619 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/thorodinson
+2020-12-02 08:42:41,645 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:42,442 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:42,480 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/brucebanner status is 404
+2020-12-02 08:42:42,513 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/brucebanner
+2020-12-02 08:42:42,514 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 08:42:42,555 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/brucebanner
+2020-12-02 08:42:42,586 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:49,865 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:50,282 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 08:42:50,645 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 08:42:52,084 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:52,158 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:52,162 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:52,162 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:52,162 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:52,162 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:52,226 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:52,226 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:52,965 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:53,042 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:53,045 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:53,045 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:53,045 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:53,045 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:53,114 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:53,115 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:53,849 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:53,927 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:53,934 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:53,934 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:53,934 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:53,934 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:53,998 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:53,998 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:54,743 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:54,823 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:54,830 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:54,830 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:54,830 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:54,830 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:54,898 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:54,898 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:55,668 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:55,745 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:55,749 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:55,750 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:55,750 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:55,750 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:55,812 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:55,813 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:56,595 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:56,674 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:56,679 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:56,680 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:56,680 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:56,680 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:56,742 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:56,742 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:57,491 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:57,566 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:57,574 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:57,574 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:57,574 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:57,574 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:57,634 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:57,634 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:42:58,378 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:42:58,454 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:42:58,458 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:42:58,458 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:42:58,458 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:42:58,458 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:42:58,522 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:42:58,522 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:07,411 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:07,822 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 08:46:08,198 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 08:46:09,591 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:09,666 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:09,670 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:09,670 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:09,670 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:09,670 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:09,734 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:09,734 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:10,490 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:10,571 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:10,579 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:10,579 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:10,579 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:10,579 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:10,635 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:10,636 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:11,387 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:11,462 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:11,466 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:11,466 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:11,466 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:11,466 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:11,535 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:11,535 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:12,261 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:12,334 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:12,373 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:12,374 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:12,374 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:12,374 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:12,458 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:12,459 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:13,291 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:13,366 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:13,370 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:13,370 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:13,370 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:13,371 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:13,432 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:13,432 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:14,294 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:14,366 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:14,371 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:14,371 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:14,371 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:14,371 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:14,428 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:14,428 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:15,185 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:15,258 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:15,262 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:15,262 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:15,262 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:15,262 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:15,326 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:15,327 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:16,077 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:16,158 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:16,162 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:16,162 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:16,162 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:16,162 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:16,226 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:16,227 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 08:46:41,481 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:41,911 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 08:46:42,284 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 08:46:43,637 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:43,714 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:43,718 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:43,718 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:43,718 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:43,718 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:43,790 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:43,790 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 08:46:44,617 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:44,694 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:44,698 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:44,698 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:44,698 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:44,698 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:44,758 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:44,758 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 08:46:45,592 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:45,678 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:45,682 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:45,682 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:45,682 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:45,682 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:45,750 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:45,751 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 08:46:46,554 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:46,630 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:46,638 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:46,638 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:46,638 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:46,638 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:46,698 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:46,698 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 08:46:47,577 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:47,654 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:47,658 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:47,658 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:47,658 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:47,658 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:47,723 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:47,723 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 08:46:48,570 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:48,650 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:48,654 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:48,654 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:48,654 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:48,654 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:48,723 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:48,723 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 08:46:49,591 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:49,666 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:49,711 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:49,711 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:49,711 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:49,711 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:49,834 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:49,835 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 08:46:50,685 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 08:46:50,762 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 08:46:50,766 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 08:46:50,766 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 08:46:50,766 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 08:46:50,766 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 08:46:50,830 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 08:46:50,830 dellemc_isilon_filesystem.py INFO : Deleting Filesystem...
+2020-12-02 10:10:29,834 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:30,265 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 10:10:30,651 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 10:10:31,981 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:32,018 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/peterparker status is 404
+2020-12-02 10:10:32,056 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/peterparker
+2020-12-02 10:10:32,056 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:32,101 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/peterparker
+2020-12-02 10:10:32,128 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:10:32,871 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:32,911 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/lukecage status is 404
+2020-12-02 10:10:32,960 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/lukecage
+2020-12-02 10:10:32,960 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:33,005 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/lukecage
+2020-12-02 10:10:33,064 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:10:33,858 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:33,899 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/scottlange status is 404
+2020-12-02 10:10:33,940 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/scottlange
+2020-12-02 10:10:33,940 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:33,991 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/scottlange
+2020-12-02 10:10:34,020 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:10:34,868 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:34,909 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/students/wandamaximoff status is 404
+2020-12-02 10:10:34,949 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/students/wandamaximoff
+2020-12-02 10:10:34,949 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:35,021 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/students/wandamaximoff
+2020-12-02 10:10:35,050 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:10:35,886 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:35,926 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/tonystark status is 404
+2020-12-02 10:10:35,964 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/tonystark
+2020-12-02 10:10:35,965 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:36,066 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/tonystark
+2020-12-02 10:10:36,116 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:10:36,879 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:36,917 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/steverogers status is 404
+2020-12-02 10:10:36,953 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/steverogers
+2020-12-02 10:10:36,953 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:37,002 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/steverogers
+2020-12-02 10:10:37,024 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:10:37,854 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:37,892 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/thorodinson status is 404
+2020-12-02 10:10:37,928 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/thorodinson
+2020-12-02 10:10:37,928 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:37,973 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/thorodinson
+2020-12-02 10:10:38,005 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:10:38,703 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:10:38,741 dellemc_isilon_filesystem.py INFO : Filesystem ifs/globaluni/teachers/brucebanner status is 404
+2020-12-02 10:10:38,778 dellemc_isilon_filesystem.py INFO : Unable to get Quota details on path ifs/globaluni/teachers/brucebanner
+2020-12-02 10:10:38,778 dellemc_isilon_filesystem.py INFO : Creating Filesystem...
+2020-12-02 10:10:38,821 dellemc_isilon_filesystem.py INFO : Attempting to create new FS ifs/globaluni/teachers/brucebanner
+2020-12-02 10:10:38,848 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:39,672 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:40,080 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 10:12:40,423 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 10:12:41,886 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:41,960 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:41,966 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:41,966 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:41,967 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:41,967 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:42,032 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:42,033 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:42,817 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:42,898 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:42,905 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:42,905 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:42,905 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:42,905 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:42,965 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:42,965 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:43,712 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:43,791 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:43,797 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:43,797 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:43,797 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:43,797 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:43,920 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:43,921 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:44,721 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:44,800 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:44,805 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:44,805 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:44,806 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:44,806 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:44,870 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:44,870 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:45,604 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:45,690 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:45,698 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:45,699 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:45,699 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:45,699 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:45,774 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:45,774 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:46,632 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:46,713 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:46,720 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:46,720 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:46,720 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:46,721 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:46,779 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:46,779 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:47,520 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:47,600 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:47,605 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:47,605 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:47,605 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:47,605 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:47,672 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:47,673 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:12:48,491 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:12:48,569 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:12:48,641 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:12:48,641 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:12:48,641 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:12:48,641 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:12:48,744 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:12:48,745 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:10,545 dellemc_isilon_gatherfacts.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:10,974 dellemc_isilon_gatherfacts.py INFO : Got Attributes of Isilon cluster 192.168.3.11
+2020-12-02 10:14:11,374 dellemc_isilon_gatherfacts.py INFO : Got Nodes from Isilon cluster  192.168.3.11
+2020-12-02 10:14:12,679 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:12,758 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:12,825 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:12,825 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:12,825 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:12,825 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:12,881 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:12,881 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:13,678 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:13,756 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:13,760 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:13,761 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:13,761 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:13,761 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:13,829 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:13,829 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:14,649 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:14,725 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:14,729 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:14,729 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:14,729 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:14,729 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:14,793 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:14,793 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:15,559 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:15,637 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:15,641 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:15,641 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:15,641 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:15,641 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:15,718 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:15,718 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:16,506 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:16,584 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:16,588 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:16,588 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:16,588 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:16,588 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:16,657 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:16,657 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:17,396 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:17,474 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:17,480 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:17,481 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:17,481 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:17,481 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:17,549 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:17,549 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:18,290 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:18,370 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:18,377 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:18,377 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:18,377 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:18,377 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:18,438 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:18,438 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
+2020-12-02 10:14:19,190 dellemc_isilon_filesystem.py INFO : Got python SDK instance for provisioning on Isilon 
+2020-12-02 10:14:19,280 dellemc_isilon_filesystem.py INFO : Determining if the ACLs are modified..
+2020-12-02 10:14:19,285 dellemc_isilon_filesystem.py INFO : ACL of the filesystem on the array is {'acl': [{'accessrights': ['dir_gen_read', 'dir_gen_write', 'dir_gen_execute', 'std_write_dac', 'delete_child'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}}, {'accessrights': ['dir_gen_read', 'dir_gen_execute'], 'accesstype': 'allow', 'inherit_flags': [], 'op': None, 'trustee': {'id': 'SID:S-1-1-0', 'name': 'Everyone', 'type': 'wellknown'}}], 'action': 'replace', 'authoritative': 'mode', 'group': {'id': 'GID:0', 'name': 'wheel', 'type': 'group'}, 'mode': '0755', 'owner': {'id': 'UID:0', 'name': 'root', 'type': 'user'}}
+2020-12-02 10:14:19,285 dellemc_isilon_filesystem.py INFO : ACL provided in the playbook is 0755
+2020-12-02 10:14:19,285 dellemc_isilon_filesystem.py INFO : Determining if Quota is modified...
+2020-12-02 10:14:19,285 dellemc_isilon_filesystem.py INFO : Determining if owner is modified..
+2020-12-02 10:14:19,353 dellemc_isilon_filesystem.py INFO : The user ID fetched from playbook is UID:0 and the user ID on the file is UID:0
+2020-12-02 10:14:19,353 dellemc_isilon_filesystem.py INFO : Getting filesystem details..
