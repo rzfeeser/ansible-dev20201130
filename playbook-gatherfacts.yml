@@ -1,0 +1,25 @@
+---
+- name: A playbook to explore gathering facts
+  hosts: bender
+
+  connection: ssh # this is a default connection setting
+  gather_facts: yes # this is a default (this is setup.py)
+
+  tasks:
+          - name: display to the screen
+            debug:
+                    var: ansible_facts   # this is the parent var for gather_facts
+
+          - name: display the bios arch to the screen
+            debug:
+                    var: ansible_facts.architecture
+
+          - name: display the date_time to the screen
+            debug:
+                    var: ansible_facts.date_time
+
+          - name: get it out to a local file
+            copy:
+                    content: "{{ ansible_facts }}"
+                    dest: /tmp/just_the_facts.json
+            delegate_to: localhost
