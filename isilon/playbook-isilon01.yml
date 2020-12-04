@@ -34,8 +34,8 @@
 
     - name: copy out results to static file
       copy:
-        content: "{{ results.Attributes.Cluster_Version.nodes | to_nice_json }}"
-        dest: isilon_facts.json
+        content: "{{ results | to_nice_yaml }}"
+        dest: isilon_facts.yaml
 
     - name: Precondition check
       fail:
