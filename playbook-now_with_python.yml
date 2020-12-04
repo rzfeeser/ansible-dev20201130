@@ -1,0 +1,29 @@
+---
+- name: Using python methods
+  hosts: localhost
+  connection: local
+
+  vars:
+          instr: RZFeeser
+          merrian:
+                  ant: little tiny smol creature
+          boston_marathon:
+                  - adams
+                  - larry
+                  - carrie
+
+  tasks:
+          - name: manipulate string
+            debug:
+                    var: instr.lower().isupper()
+
+          - name: manipulate dict
+            debug:
+                    var: merrian.keys()
+
+          - name: manipluate list
+            debug:
+                    var: boston_marathon.pop(0)
+
+
+

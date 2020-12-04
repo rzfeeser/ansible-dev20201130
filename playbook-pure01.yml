@@ -1,0 +1,20 @@
+---
+- name: Example of Pure Storage Flash Array solution
+  hosts: localhost
+  connection: local
+  gather_facts: no
+
+  vars:
+          api_token: "e31060a7-21fc-e277-6240-25983c6c4592"
+          fa_url: "10.10.10.2"
+
+  collections:
+          - purestorage.flasharray
+
+  tasks:
+          - name: Try changing banner on Pure Storage Flash Array
+            purefa_banner:
+              banner: "Banner over\ntwo lines"
+              state: present
+              fa_url: "{{ fa_url }}"
+              api_token: "{{ api_token }}"
